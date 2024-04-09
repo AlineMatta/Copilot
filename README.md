@@ -1,7 +1,7 @@
 # Copilot
 Bootcamp Microsoft Azure - Lab Copilot
 
-
+PT/BR
 Na primeira imagem, como podemos ver é uma receita médica veterinária, anexei ao Copilot e solicitei que me ajudasse a ler e entender a receita e como podemos ver o resultado na pasta Output a resposta que obtive foi excelente. A AI compreendeu a mensagem de texto me informando sobre todos os detalhes descritos na receita, independentemente da escrita á mão, que é tão difícil para nós compreendermos, como: dados pessoais e cadastro do médico veterinário, os dados pessoais do paciente (pet), nome do medicamento e forma (se é pomada, pilula, etc) a quantidade do medicamento a ser fornecida, dosagem, horários, duração do tratamento, data, assinatura do médico veterinário e o carimbo.
 
 Já na segunda imagem, anexei uma caixa de medicamento para pet e solicitei a AI que me informasse o que era aquela imagem e do que se tratava. O resultado foi melhor do que o esperado porque além de conseguir compreender que era um medicamento, ela também informou sobre qual o tipo de medicamento (no caso um anti-inflamatório) e ainda informou qual a matéria-prima (Prednisolona), por fim afirmou que não é uma profissional de saúde e que portanto, deveria-se consultar um veterinário para obter as devidas informações como a forma de uso, dosagem, tratamento, etc.
@@ -10,7 +10,7 @@ Conclusão desse Lab é que a AI consegue ser capaz de ler qualquer tipo de docu
 
 ________________________________________________________________________________________________________________________________________________________________________________________
 
-English 
+EN/US
 
 In the first image, as we can see it is a veterinary prescription, I attached it to Copilot and I asked him to help me read and understand the recipe and as we can see the result in the Output folder, the response he gave was excellent. The AI ​​understood the text message informing me about all the details described in the prescription, regardless of the handwriting, which is so difficult for us to understand, such as: personal data and registration of the veterinarian, the patient's personal data (pet), name of the medicine and form (if it is an ointment, pill, etc.) the quantity of the medicine to be supplied, dosage, times, duration of treatment, details, signature of the veterinarian and stamp.
 
